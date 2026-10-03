@@ -1,0 +1,56 @@
+/*
+Theme Name: MornRain Terminal
+Theme URI: https://github.com/mornrain-lin/mornrain-terminal
+Author: mornrain-lin
+Author URI: https://github.com/mornrain-lin
+Description: A dark terminal-style theme with monospace typography for developer blogs and code-heavy posts.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mornrain-terminal
+Tags: blog, one-column, custom-logo, custom-menu, featured-images, translation-ready, block-styles
+
+MornRain Terminal is free software: you can redistribute it and/or modify it under the
+terms of the GNU General Public License as published by the Free Software
+Foundation, either version 2 of the License, or (at your option) any later
+version.
+
+MornRain Terminal is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+All layout and component styles live in assets/css/main.css. This file carries
+the required theme header plus a few base rules that must be available before
+main.css is loaded.
+*/
+
+/* 1. Base ---------------------------------------------------------------- */
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	word-wrap: break-word;
+}
+
+/* 2. Theme signature ----------------------------------------------------- */
+:root {
+	--mt-bg: #0d1117;
+	--mt-fg: #c9d1d9;
+	--mt-accent: #7ee787;
+}
+
+body {
+	background-color: var(--mt-bg);
+	color: var(--mt-fg);
+	font-family: "JetBrains Mono", "Fira Code", Menlo, Consolas, "Courier New", monospace;
+}
+
+.site-title a {
+	color: var(--mt-accent);
+}
