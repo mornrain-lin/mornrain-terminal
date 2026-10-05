@@ -1,14 +1,3 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: cf93d2ba4252e3fc820ac383cb09c649_789dc56abe7a11f18019525400248c00
-    ReservedCode1: P4ctop7rTySuYegUK84cvBzV0CkyU3gi/JmyiYALq99dJEhIQa2S2iZ82GbL8ANnhcl3hBNX/zXZq8/mR4oBZmVPHhfW4qfLScsU66BSGICTCzGeYMk/2SmHCvW7itUzqQ+qFr6foYWT+nHR75OkF9+AZCzYY95tnTDKhiu/DVWQezMkvLD7RkOWqUw=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: cf93d2ba4252e3fc820ac383cb09c649_789dc56abe7a11f18019525400248c00
-    ReservedCode2: P4ctop7rTySuYegUK84cvBzV0CkyU3gi/JmyiYALq99dJEhIQa2S2iZ82GbL8ANnhcl3hBNX/zXZq8/mR4oBZmVPHhfW4qfLScsU66BSGICTCzGeYMk/2SmHCvW7itUzqQ+qFr6foYWT+nHR75OkF9+AZCzYY95tnTDKhiu/DVWQezMkvLD7RkOWqUw=
----
-
 # MornRain Terminal
 
 > A dark, monospace, terminal-inspired theme for developer blogs.
