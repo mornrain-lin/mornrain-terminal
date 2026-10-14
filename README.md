@@ -1,4 +1,4 @@
-![mornrain-terminal](assets/preview.png)
+![mornrain-terminal](assets/home.png)
 
 # MornRain Terminal
 
@@ -17,6 +17,12 @@ assets, contacts **no remote service** and creates **no extra database tables**.
 | Function prefix | `mornrain_terminal` |
 
 ---
+
+## 界面预览
+
+| 首页 | 文章页 |
+| --- | --- |
+| ![首页](assets/home.png) | ![文章页](assets/article.png) |
 
 ## Table of contents
 
