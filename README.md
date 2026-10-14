@@ -1,3 +1,5 @@
+![mornrain-terminal](assets/preview.png)
+
 # MornRain Terminal
 
 > A dark, monospace, terminal-inspired theme for developer blogs.
